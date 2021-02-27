@@ -10,7 +10,7 @@
 
 ## Website of course 
 
-|    Available | Last Update |
+|    Course Site | Last Update |
 | ------------- | ------------- |
 ![https://sites.google.com/a/dis.uniroma1.it/antonio-pietrabissa/home/teaching/process-automation?authuser=0](https://sites.google.com/a/dis.uniroma1.it/antonio-pietrabissa/home/teaching/process-automation?authuser=0) | 2021|
 
